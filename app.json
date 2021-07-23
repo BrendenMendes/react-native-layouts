@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "layouts-app",
+    "slug": "layouts-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "layouts-app"
+}
